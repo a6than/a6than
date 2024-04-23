@@ -14,7 +14,7 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Estudando T.I na FATEC Mauá e também fazendo o curso de Desenvolvedor FullStack na EBAC.
+Estudando T.I na FATEC Mauá e também o curso de Desenvolvedor FullStack na EBAC.
 
 ### E-mail para contato:
 - [E-mail](https://a6.than@gmail.com)
